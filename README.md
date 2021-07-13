@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Joselo2020
-- 👀 I’m interested in desarrollo web
-- 🌱 I’m currently learning Ing. de Sistemas e Informática
-- 💞️ I’m looking to collaborate on desarrollo web y sistemas de ventas.
-- 📫 How to reach me, puedes encontrarme en la mi sitio web oficial
+- 👋 Hello, my name is José Luis
+- 👀 I am interested in technology, but especially in web development
+- 🌱 I am currently studying Systems and Computer Engineering.
+- 💞️ I would like to collaborate in web development and internet sales.
+- 📫 You can contact me through my official website.
 
 <!---
 Joselo2020/Joselo2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
